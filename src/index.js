@@ -11,6 +11,7 @@ root.render(
     <App />
 
   a new line has been added 
+  and a meaningfull changes been done
   </React.StrictMode>
 );
 
