@@ -9,6 +9,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+
+  a new line has been added 
+  and a meaningfull changes been done
   </React.StrictMode>
 );
 
